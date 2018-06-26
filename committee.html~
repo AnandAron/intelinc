@@ -22,6 +22,8 @@ body,h1,h2,h3,h4,h5,h6,.w3-wide {font-family: "Montserrat", sans-serif;}
 
 <body >
 <div class="w3-bar w3-black">
+<a href="index.html" class="w3-bar-item w3-button"><i class="fa fa-arrow-left"></i></a>
+
 <h1>COMMITTEE MEMBERS</h1>
 </div>
 

@@ -22,7 +22,8 @@ body,h1,h2,h3,h4,h5,h6,.w3-wide {font-family: "Montserrat", sans-serif;}
 
 <body >
 <div class="w3-bar w3-black">
-<h1>Others</h1>
+<a href="index.html" class="w3-bar-item w3-button"><h1><i class="fa fa-arrow-left"></i></h1></a>
+<h1>Key Note Speakers</h1>
 </div>
 
 <div class="w3-center"><h3>Appeal to Sponsors</h3></div>
