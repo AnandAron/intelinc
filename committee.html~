@@ -1,0 +1,180 @@
+
+<!DOCTYPE html>
+<html>
+<title>INTELINC '18</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+table, th, td {
+    border: 1px solid black;
+}
+table {
+    border-collapse: collapse;
+}
+
+.w3-sidebar a {font-family: "Roboto", sans-serif}
+body,h1,h2,h3,h4,h5,h6,.w3-wide {font-family: "Montserrat", sans-serif;}
+</style>
+
+<body >
+<div class="w3-bar w3-black">
+<h1>COMMITTEE MEMBERS</h1>
+</div>
+
+<div class="w3-content" style="max-width:1200px">
+	<h3>CONFERENCE COMMITTEE:</h3><br>
+	<div class="w3-row">
+		<div class="w3-col m4 w3-padding-large">
+			
+			<h5>CHIEF PATRON:</h5><br>		        
+			<b>Prof. Dr. V. MURUGESAN</b><br>
+			Vice-Chancellor,<br>
+			Annamalai University.
+		</div>
+		<div class="w3-col m4 w3-padding-large">
+
+			<h5>PATRON:</h5><br>		        
+			<b>Prof. Dr. K. ARUMUGAM,
+</b><br>
+			Registrar i/c,<br>
+			Annamalai University.
+		</div>
+		<div class="w3-col m4 w3-padding-large">
+
+			<h5>CHIEF ADVISOR:</h5><br>		        
+			<b>Prof. Dr. C. ANTONY JEYASEHAR</b><br>
+			Dean, FEAT, <br>
+			Annamalai University.
+		</div>
+	
+	</div>
+
+	<div class="w3-row">
+		<div class="w3-col m4 w3-padding-large">
+			
+			<h5>CONFERENCE COORDINTOR:</h5><br>		        
+			<b>Dr.G.YAMUNA</b><br>
+			Professor and Head,Department of ECE,<br>
+			Annamalai University.
+		</div>
+		<div class="w3-col m4 w3-padding-large">
+
+			<h5>CO-CORDINATORS:</h5><br>		        
+			<b>Mr.T.RAVICHANDRAN</b><br>
+			Associate Professor of ECE,<br>
+			Annamalai University.<BR>
+			<b>Dr.P.D.SATHYA</b><br>
+			Associate Professor of ECE,<br>
+			Annamalai University.<br>
+			<b>Dr.P.VIMALA</b><br>
+			Associate Professor of ECE,<br>
+			Annamalai University.
+		</div>
+	</div>
+
+	<h3>ADVISORY COMMITTEE:</h3>
+	<P>
+
+Dr Ahmed Toaha Mobashsher, Professor, University of Queensland, Australia<BR>
+Mr. Benzigar Rajan A, Senior Scientist, ISRO, Mahendragiri, Tirunelveli<BR>
+Prof. Dharma Raj Cheruku, Vice-Principal, GITAM Institute of Technology, Visakhapatnam<BR>
+Dr. Gaurav Bajpai, Professor, University of Rwanda, Rwanda<BR>
+Dr. George Ghinea, Professor, Brunel University, United Kingdom<BR>
+Dr. Hanumanthappa M, Associate Professor, Department of CS&A, Bangalore University, Bengaluru<BR>
+Dr. Kumarappan N, Professor and Head, Department of EEE, Annamalai University<BR>
+Dr. Lai Khin Wee, Professor, University of Malaya, Malaysia<BR>
+Dr. Nagarajan V, Vice-Principal & Professor of ECE, Adhiparasakthi Engineering College, Melmaruvathur<BR>
+Dr. Nimal, Scientist ‘F’, DRDO, New Delhi<BR>
+Dr. Pandian P S, Scientist ‘E’, DEBEL, DRDO, Bengaluru<BR>
+Dr. Raghavan S, Professor, Department of ECE, National Institute of Technology (NIT), Trichy<BR>
+Dr. Ramakrishna S, Professor, Department of Computer Science, Sri Venkateswara University, Tirupati<BR>
+Dr. Ramanujachari V, Director, Research & Innovation Centre, IIT Madras <BR>
+Dr. Saraswat V K, Permanent Member, NITI Aayog, New Delhi.<BR>
+Mr. Selva Balan M, Scientist ‘D’, Central Water & Power Research Station, Pune<BR>
+Shri. Selvakumar P, Director – Planning and Project, NLC India Limited, Neyveli <BR>
+Dr. Sharul Kamal Bin Abdul Rahim, University Technology Malaysia, Malaysia<BR>
+Dr. Sisil Kumarawadu, Professor, University of Moratuwa, Srilanka<BR>
+Dr. Sivakumar D, Professor and Head, Department of EIE, Annamalai University<BR>
+Dr. Sivasubramanian A, Principal, Mount Zion College of Engineering, Kerala<BR>
+Dr. Srinivasan V, Professor and Head, Department of Information Technology, Annamalai University.<BR>
+Dr. Tai-Hoon Kim, Professor, Hannam University, Korea.<BR>
+Dr. Venkat N. Gudivada, Professor and Chair, Department of CSE, East Carolina University, USA<BR>
+Dr. Vitawat Sittakul, King Mongkut's University of Technology, Bangkok, Thailand<BR>
+Dr. Xavier Fernando, Professor, Ryerson University, Canada<BR>
+
+	</P>
+
+	<h3>ORGANIZING COMMITTEE:</h3>
+	<P>
+<B>Chairperson:</B>	Dr. YAMUNA G, Professor, Department of ECE, Annamalai University<BR>
+<B>Secretary:</b>	Dr. VIMALA P, Assistant Professor, Department of ECE, Annamalai University<BR>
+Dr. Aruna P, Professor and Head, Department of Computer Science Engineering, Annamalai University<BR>
+Dr. Balasubramanian V, Director, Centre for Materials Joining and Research, Professor of Manufacturing Engineering, Annamalai University.<BR>
+Dr. Baskaran B, Development Officer (Electrical), Estate Development and Administration & Professor of EEE, Annamalai University<BR>  
+Dr. Devarajan K, Assistant Professor, Department of ECE, Annamalai University.<BR>
+Mrs. Eswari N, DGM, SAS Tendering, GE Limited, Chennai<BR> 
+Dr. Gayathri R, Assistant Professor, Department of ECE, Annamalai University.<BR>
+Dr. Gnanamanoharan E, Assistant Professor, Department of ECE, Annamalai University.<BR>
+Dr. Jayanthi K B, Professor & Head, Department of ECE, KSR College of Technology, Tiruchengode<BR>
+Dr. Mohan S, Estate Officer, Estate Development and Administration & Associate Professor in Civil Engineering, Annamalai University<BR>  
+Mr. Mohan P, Director, Sakthi Polymers, Salem <BR>
+Dr. Muthukumaran N, Professor, Francis Xavier Engineering College, Tirunelveli<BR>
+Mr. Palanivelan S, Vice-President, Phoenix Contact India Pvt Ltd, New Delhi<BR>
+Dr. Raja P S, Associate Professor of E&I, Annamalai University.<BR>
+Shri. Ramesh A, Director, MJL Electronics Private Limited, Chennai<BR>
+Mr. Ramesh Kumar S, Director & CEO, Averzs Technologies, Chennai<BR>
+Dr. Saravanan C G, Professor and Head, Department of Mechanical Engineering, Annamalai University.<BR>
+Dr. Selvakumar K, Associate Professor, Department of Information Technology, Annamalai University.<BR>
+Dr. Shaji Kalistin Apolin, Professor, Al Musanna College of Technology, Sultanate of Oman.<BR>
+Mr. Shankar T, Assistant Professor, Department of ECE, Government College of Engineering, Srirangam, Trichy<BR>
+Shri. Siddique M Z, Director, GTRE - DRDO, Bangalore<BR>
+Dr. Subramanian S, Professor, Department of EEE, Annamalai University<BR>
+Dr. Subhashini T S, Associate Professor, Department of CSE, Annamalai University<BR>
+Dr. Syed H. Hasan, Professor, King Abdulaziz University, Kingdom of Saudi Arabia<BR>
+Prof. Vijayamohanan K Pillai, Scientist, CECRI, Karaikudi<BR> 
+Dr. Vijayarajeswaran R, Managing Director, VI Microsystems, Chennai<BR>
+	</p>
+<h3>TECHNICAL COMMITTEE:</h3>
+
+<P>
+<B>Chairperson:</B> 	Mr. RAVICHANDRAN T, Associate Professor, Department of ECE, Annamalai University
+<B>Secretary:</B>	Dr. SATHYA P D, Assistant Professor, Department of ECE, Annamalai University<BR>
+
+Dr. Aghila G, Professor, Department of CSE, National Institute of Technology (NIT), Puducherry.<BR>
+Dr. Agilandeeswari L, HOD, Department of Digital Communications, VIT University, Vellore<BR>
+Dr. Andy SK Annamalai, Lecturer, University of Highlands and Islands, United Kingdom<BR>
+Dr. Joseph Daniel R,  Director, NPMaSS MEMS Design Centre, Associate Professor of E&I, Annamalai University<BR>
+Dr. Jothilakshmi S, Assistant Professor, Department of Information Technology, Annamalai University<BR>
+Dr. Krishnan J, Director, Centre for Biomedical Engineering, Professor of E&I, Annamalai University.<BR>
+Dr. Maheswari S, Professor, Department of ECE, K.Ramakrishna College of Engineering, Trichy<BR>
+Dr. Malathi R, Professor, Department of E&I, Annamalai University.<BR>
+Dr. Manikandan M, Associate Professor, Department of Electronics Engineering, MIT, Chennai<BR>
+Dr. Manjula J, Associate Professor, Department of ECE, SRM Institute of Science and Technology, Chennai<BR>
+Dr. Nagarajan G, Professor, Department of ECE, Pondicherry Engineering College, Puducherry.<BR>
+Mr. Murugeswaran S, Director, MSPAND Technologies, Bangalore.<BR>
+Dr. Neelakandan R, Faculty of Electronics Engineering, Indian Institute of Information Technology, Chennai.<BR>
+Dr. Padmapriya K, Assistant Professor, Department of ECE, Annamalai University.<BR>
+Dr. Rajendra U Acharya, Professor, NGEE ANN Polytechnic, Singapore<BR>
+Dr. Rubeesh Anand, Professor, Department of ECE, Faculty of Engineering, Hindustan University, Chennai<BR>
+Dr. Sarathi R, Professor of Electrical Engineering, Indian Institute of Technology Madras (IITM), Chennai<BR>
+Dr. Sathish Samiappan, Post Doctoral Associate, Geosystems Research Institute, USA<BR>
+Dr. Sharmila Kumari M, Professor & Head, Department of CSE, P.A. College of Engineering, Mangalore.<BR>
+Dr. Sivanantha Raja A, Associate Professor, Department of ECE, Alagappa Chettiar College of Engg. & Tech., Karaikudi.<BR> 
+Dr. Sridharan K, Professor of Electrical Engineering, Indian Institute of Technology Madras (IITM), Chennai<BR>
+Dr. Sudhakar B, Assistant Professor, Department of ECE, Annamalai University.<BR>
+Dr. Suganthi S, Professor, Department of ECE, Christ University.<BR>
+Dr. Suresh Kumar T R, Post Doctorate Fellowship, Bengaluru.<BR>
+Dr. Vanaja Ranjan P, Professor of EEE, College of Engineering, Anna University, Guindy, Chennai<BR>
+Dr. Venkatachalapathy K, Professor & Head (i/c), Department of Computer & Information Sciences, Annamalai University.<BR>
+ 
+
+</P>
+
+</div>
+</body>
+</html>
+
